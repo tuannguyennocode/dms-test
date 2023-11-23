@@ -6,7 +6,7 @@ import store from './store';
 import reportWebVitals from './reportWebVitals';
 
 import App from './App';
-import LanguageProvider from '@locales/LanguageProvider';
+import LanguageProvider from './locales/LanguageProvider';
 
 import './assets/scss/index.scss';
 
